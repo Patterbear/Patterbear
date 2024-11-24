@@ -4,7 +4,7 @@
 
 ---
 
-Software Developer with First-Class Honours degree in Computer Science from the University of Leicester and a graduate of the Northcoders Software Development Bootcamp. 
+Software Developer with First-Class Honours degree in Computer Science from the University of Leicester and graduate of the Northcoders Software Development Bootcamp. 
 
 Open-source developer for the Anti Malware Alliance since since May 2024, and author and maintainer of [DocuBleach](https://pypi.org/project/docubleach/).
 
@@ -13,6 +13,7 @@ Experienced in Java, JavaScript, TypeScript, Python, and C#, and have created we
 **Open to Junior Developer roles and open-source projects.**
 
 ---
+
 ## Tech Stack
 ![My Tech Stack](https://raw.githubusercontent.com/Patterbear/my-website/refs/heads/main/assets/about-me-icons.png)
 
