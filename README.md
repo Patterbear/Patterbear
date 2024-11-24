@@ -1,12 +1,10 @@
 # Benjamin McGregor
 
-**Open-Source Developer**
-
 ---
 
-Software Developer with First-Class Honours degree in Computer Science from the University of Leicester and graduate of the Northcoders Software Development Bootcamp. 
+Software Developer with First-Class Honours degree in Computer Science from the [University of Leicester](https://le.ac.uk), and graduate of [Northcoders](https://northcoders.com)' Software Development Bootcamp. 
 
-Open-source developer for the Anti Malware Alliance since since May 2024, and author and maintainer of [DocuBleach](https://pypi.org/project/docubleach/).
+Open-source developer for the [Anti Malware Alliance](https://anti-malware-alliance.org/) since May 2024, and author and maintainer of [DocuBleach](https://pypi.org/project/docubleach/).
 
 Experienced in Java, JavaScript, TypeScript, Python, and C#, and have created web applications, APIs, desktop applications, and databases as part of personal projects, open-source work, and formal education.
 
