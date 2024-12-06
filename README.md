@@ -6,7 +6,7 @@ Software Developer with First-Class Honours degree in Computer Science from the 
 
 Open-source developer for the [Anti Malware Alliance](https://anti-malware-alliance.org/) since May 2024, and author and maintainer of [DocuBleach](https://pypi.org/project/docubleach/).
 
-Experienced in Java, JavaScript, TypeScript, Python, and C#, and have created web applications, APIs, desktop applications, and databases as part of personal projects, open-source work, and formal education.
+Experienced in Java, JavaScript, TypeScript, Python, and C#, and have created web applications, APIs, mobile applications, databases, and desktop applications as part of personal projects, open-source work, and formal education.
 
 **Open to Junior Developer roles and open-source projects.**
 
