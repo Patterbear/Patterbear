@@ -13,7 +13,7 @@ Experienced in Java, JavaScript, TypeScript, Python, and C#, and have created we
 ---
 
 ## Tech Stack
-![My Tech Stack](https://raw.githubusercontent.com/Patterbear/my-website/refs/heads/main/assets/about-me-icons.png)
+![My Tech Stack](./assets/my-stack.png)
 
 ---
 
