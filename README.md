@@ -2,7 +2,7 @@
 
 ---
 
-Software Developer and graduate of [Northcoders](https://northcoders.com)' Software Development Bootcamp. 
+Software Developer studying Computer Science at the [University of Leicester](https://le.ac.uk), and graduate of [Northcoders](https://northcoders.com)' Software Development Bootcamp. 
 
 Open-source developer for the [Anti Malware Alliance](https://anti-malware-alliance.org/) since May 2024, and author and maintainer of [DocuBleach](https://pypi.org/project/docubleach/).
 
