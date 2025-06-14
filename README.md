@@ -23,4 +23,3 @@ I am experienced with Java, JavaScript, TypeScript, Python, and C#, and have cre
 Feel free to get in touch for collaboration or to discuss new opportunities:
 - **LinkedIn:** [benjamin-mcgregor-782553224](https://linkedin.com/in/benjamin-mcgregor-782553224/)
 - **Email:** [benjamin.mcgregor2002@gmail.com](mailto:benjamin.mcgregor2002@gmail.com)
-- **Phone:** +44 7513 399969
